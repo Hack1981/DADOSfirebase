@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "nome_verdadeiro": "João da Silva",
+      "id_usuario": 123456,
+      "saldo": 100.50,
+      "nome_usuario": "joao_silva",
+      "senha": "senha123"
+    },
+    {
+      "nome_verdadeiro": "Maria Souza",
+      "id_usuario": 987654,
+      "saldo": 75.20,
+      "nome_usuario": "maria_souza",
+      "senha": "senha456"
+    },
+    {
+      "nome_verdadeiro": "Pedro Santos",
+      "id_usuario": 555888,
+      "saldo": 50.00,
+      "nome_usuario": "pedro_santos",
+      "senha": "senha789"
+    }
+  ]
+}
